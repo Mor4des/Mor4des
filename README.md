@@ -1,7 +1,7 @@
 # Hi, ich bin Jasper Stolp👋
 
-🎓 In, formatikstudent an der Hochschule Bonn-Rhein-Sieg
-💻 Interesse an Backend-Systemen, API-Entwicklung, Software Engineering und Systemadministration  
+🎓 Informatikstudent an der Hochschule Bonn-Rhein-Sieg.
+💻 Interesse an Backend-Systemen, API-Entwicklung, Software Engineering und Systemadministration.
 📍 Bonn 
 
 ---
@@ -30,11 +30,11 @@
 
 ## 📂 Projekte, welche ich zum üben für Klausuren geschrieben habe
 
-### 🔹 [LoopRätsel](LINK_ZUM_REPO)
+### 🔹 [LoopRätsel](LoopRätsel)
 Man spielt einen zauberer, welcher aus der Welt entkommen muss und dafür Rätsel lösen muss
 → Tech: Unity, C#
 
-### 🔹 [TicTacMate](LINK_ZUM_REPO)
+### 🔹 [TicTacMate](TicTacMate)
 ein kleines Spiel. Eine Mischung aus Schach und Tic Tac Toe  
 → Tech: Java
 
