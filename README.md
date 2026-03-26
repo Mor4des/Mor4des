@@ -1,41 +1,41 @@
-# Hi, ich bin Jasper Stolp👋
+# Hi, ich bin Jasper Stolp 👋
 
-🎓 Informatikstudent an der Hochschule Bonn-Rhein-Sieg.<br>
-💻 Interesse an Backend-Systemen, API-Entwicklung, Software Engineering und Systemadministration.<br>
-📍 Bonn 
+🎓 Informatikstudent an der Hochschule Bonn-Rhein-Sieg  
+💻 Interesse an Backend-Systemen, API-Entwicklung, Game Development und Systemadministration  
+📍 Bonn  
 
 ---
 
 ## 🚀 Über mich
 
-- 🔭 Aktuell arbeite ich im: **Institut für It-Serive an der Hochschule Bonn-Rhein-Sieg**
-- 🌱 Ich lerne gerade: **API-Entwicklung und n8n Automatisierung**
-- 💡 Interessen: **AI, Fullstack**
-- 🎯 Ziel: **als SOftware Developer arbeiten]**
+- 🔭 Aktuell tätig im **Institut für IT-Service** an der Hochschule Bonn-Rhein-Sieg  
+- 🌱 Aktuell lerne ich **API-Entwicklung und Automatisierung mit n8n**  
+- 💡 Interessen: **Backend-Entwicklung, Fullstack, AI**  
+- 🎯 Ziel: Einstieg als **Software Developer / Software Engineer**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Sprachen:**
-- Java / JavaScript / Python / C / C# / C++
+**Sprachen:**  
+Java · JavaScript · Python · C · C# · C++
 
-**Frameworks & Tools:**
-- Intellij / VS Code / Angular / Spring
+**Frameworks & Tools:**  
+IntelliJ · VS Code · Angular · Spring  
 
-**Sonstiges:**
-- Git, Linux, CSS, HTML 
+**Sonstiges:**  
+Git · Linux · HTML · CSS  
 
 ---
 
-## 📂 Projekte, welche ich zum üben für Klausuren geschrieben habe
+## 📂 Projekte
 
 ### 🔹 [LoopRätsel](https://github.com/Mor4des/LoopRätsel)
-Man spielt einen zauberer, welcher aus der Welt entkommen muss und dafür Rätsel lösen muss
+Unity-Spiel, bei dem ein Zauberer Rätsel lösen muss, um aus einer Welt zu entkommen  
 → Tech: Unity, C#
 
 ### 🔹 [TicTacMate](https://github.com/Mor4des/TicTacMate)
-ein kleines Spiel. Eine Mischung aus Schach und Tic Tac Toe  
+Strategisches Spiel als Kombination aus Tic Tac Toe und Schach-Mechaniken  
 → Tech: Java
 
 ---
