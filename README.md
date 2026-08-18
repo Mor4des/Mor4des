@@ -1,4 +1,4 @@
-# Hi, ich bin Jasper Stolp 👋
+# Hi, ich bin Jasper 👋
 
 🎓 Informatikstudent an der Hochschule Bonn-Rhein-Sieg  
 💻 Interesse an Backend-Systemen, API-Entwicklung, Game Development und Systemadministration  
@@ -8,7 +8,7 @@
 
 ## 🚀 Über mich
 
-- 🔭 Aktuell tätig im **Institut für IT-Service** an der Hochschule Bonn-Rhein-Sieg  
+- 🔭 Über 3 Jahre tätig im **Institut für IT-Service** an der Hochschule Bonn-Rhein-Sieg  
 - 🌱 Aktuell lerne ich **API-Entwicklung und Automatisierung mit n8n**  
 - 💡 Interessen: **Backend-Entwicklung, Fullstack, AI**  
 - 🎯 Ziel: Einstieg als **Software Developer / Software Engineer**  
@@ -31,11 +31,11 @@ Git · Linux · HTML · CSS
 ## 📂 Projekte
 
 ### 🔹 [LoopRätsel](https://github.com/Mor4des/LoopRätsel)
-Unity-Spiel, bei dem ein Zauberer Rätsel lösen muss, um aus einer Welt zu entkommen  
+Unity-Spiel, bei dem ein Zauberer Rätsel lösen muss, um aus einer Welt zu entkommen, Entwickelt in Game Development 1  
 → Tech: Unity, C#
 
 ### 🔹 [TicTacMate](https://github.com/Mor4des/TicTacMate)
-Strategisches Spiel als Kombination aus Tic Tac Toe und Schach-Mechaniken  
+Strategisches Spiel als Kombination aus Tic Tac Toe und Schach-Mechaniken, Erstellt um meine Kentnisse in Java zu vertiefen
 → Tech: Java
 
 ---
