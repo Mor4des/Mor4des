@@ -34,6 +34,10 @@ Git · Linux · HTML · CSS
 Unity-Spiel, bei dem ein Zauberer Rätsel lösen muss, um aus einer Welt zu entkommen, Entwickelt in Game Development 1  
 → Tech: Unity, C#
 
+### 🔹 [Cozy Sudoku Garden](https://github.com/Mor4des/CozySudokuGarden)
+Gemütliches Singleplayer-Sudoku-Spiel mit Garten, Tee, Cottage-Einrichtung, Sammelobjekten und langfristiger Progression.
+→ Tech: Unity, C#
+
 ### 🔹 [TicTacMate](https://github.com/Mor4des/TicTacMate)
 Strategisches Spiel als Kombination aus Tic Tac Toe und Schach-Mechaniken, Erstellt um meine Kentnisse in Java zu vertiefen
 → Tech: Java
