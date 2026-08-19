@@ -30,7 +30,7 @@ Git · Linux · HTML · CSS
 
 ## 📂 Projekte
 
-### 🔹 [LoopRätsel](https://github.com/Mor4des/LoopRätsel)
+### 🔹 [LoopRätsel](https://github.com/Mor4des/LoopRaetsel)
 Unity-Spiel, bei dem ein Zauberer Rätsel lösen muss, um aus einer Welt zu entkommen, Entwickelt in Game Development 1  
 → Tech: Unity, C#
 
